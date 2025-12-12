@@ -16,9 +16,6 @@ End the program.
 
 # PROGRAM:
 ```
-NAME: Sri Vignesh G
-REG NO: 212223040204
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
